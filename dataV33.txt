@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://freeimghost.net/i/5QLgD"},
+  {"desc2":"LED Lighting: The mod comes with built-in LED lights that illuminate the toilet bowl with a range of colorful options","photo2":"https://freeimghost.net/i/5Q9fG"},
+  {"desc3":"The lights can be adjusted to create a disco-like atmosphere, adding a touch of excitement during those late-night bathroom visits","photo3":"https://freeimghost.net/i/5QmTI"},
+  {"desc4":"Motion Sensor Activation: The Skibidi Toilet Mod incorporates motion sensor technology that activates the LED lights and sound effects as soon as someone approaches the toilet","photo4":"https://freeimghost.net/i/5Qw2s"},
+  {"desc5":"This feature ensures a surprise element and guarantees a smile every time you enter the bathroom","photo5":"https://freeimghost.net/i/5QnIP"},
+  {"descd":"Sound Effects: To enhance the overall experience, the mod includes pre-recorded sound effects from the "Skibidi" song, such as the catchy "Skibidi bop mm dada" chorus","photod":"https://freeimghost.net/i/5QqnA"}
    ]
  
 }
